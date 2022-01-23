@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.API", "AuthServe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Core", "AuthServer.Core\AuthServer.Core.csproj", "{C5489130-13FD-46E4-9AF7-3B985B30F5FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Data", "AuthServer.Data\AuthServer.Data.csproj", "{2CEC14A2-E974-4393-8D14-5BA0A234FFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C5489130-13FD-46E4-9AF7-3B985B30F5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5489130-13FD-46E4-9AF7-3B985B30F5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5489130-13FD-46E4-9AF7-3B985B30F5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEC14A2-E974-4393-8D14-5BA0A234FFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEC14A2-E974-4393-8D14-5BA0A234FFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEC14A2-E974-4393-8D14-5BA0A234FFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEC14A2-E974-4393-8D14-5BA0A234FFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
