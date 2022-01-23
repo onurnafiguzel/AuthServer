@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthServer.Service", "AuthS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp1.API", "MiniApp1.API\MiniApp1.API.csproj", "{07815845-EB1C-435F-A88F-F7E4BAF6E202}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp2.API", "MiniApp2.API\MiniApp2.API.csproj", "{50041988-955D-437B-94DF-DEA93C47D01D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{07815845-EB1C-435F-A88F-F7E4BAF6E202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07815845-EB1C-435F-A88F-F7E4BAF6E202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07815845-EB1C-435F-A88F-F7E4BAF6E202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50041988-955D-437B-94DF-DEA93C47D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50041988-955D-437B-94DF-DEA93C47D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50041988-955D-437B-94DF-DEA93C47D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50041988-955D-437B-94DF-DEA93C47D01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
